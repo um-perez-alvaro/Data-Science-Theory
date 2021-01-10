@@ -1,5 +1,7 @@
 # Theoretical Data Analytics
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/um-perez-alvaro/Data-Science-Theory/HEAD)
+
 **Contents:**
 
 - [Linear Regression](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Regression)
