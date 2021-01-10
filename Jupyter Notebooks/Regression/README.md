@@ -3,7 +3,7 @@
 ## Jupyther notebooks
 
 - [Simple Linear Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Simple%20Linear%20Regression.ipynb)
-- [Polynomial Features]()
+- [Polynomial Features](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Polynomial%20Regression.ipynb)
 - [Multivariate Linear Regression]()
 - [Overfitting and Regularization]()
 - [Python Implementation]()
