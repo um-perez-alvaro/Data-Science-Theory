@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/um-perez-alvaro/Data-Science-Theory/HEAD)
 
-**Contents:**
+## Contents:
 
 - [Jupyter Notebooks, Numpy and Matplotlib](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Jupyter%20Notebooks%2C%20numpy%20and%20matplotlib)
 - [Linear Regression](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Regression)
@@ -11,4 +11,8 @@
 - [Clustering Algorithms](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Clustering%20algorithms)
 - [Recommender Systems](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Recommender%20Systems)
 - [Neural Nets](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Neural%20Nets)
+
+## Zoom Recordings
+
+01/10 Introduction to Jupyter Notebooks, Numpy and Matplotlib
 
