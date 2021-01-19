@@ -18,5 +18,6 @@ Filename | Description |  Source
 [bmi.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/bmi.csv) | The data includes height, weight, BMI and body fat | [Statistics By Jim](https://statisticsbyjim.com/regression/predictions-regression/)
 [student debt.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/student%20debt.csv) | Total student loan debt in the United States measured quarterly from 2006 to 2014 | [Machine Learning Refined](https://github.com/nrchade/mlrefined)
 [crickets.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/crickets.csv) | Relationship between chirps (pulses of sound) per second of a cricket and the corresponding ground temperature | [The Song of Insects](https://songsofinsects.com/)
+[cerals.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/cereals.csv) | Nutrition data on cereal products | [Kaggle](https://www.kaggle.com/crawford/80-cereals)
 
 
