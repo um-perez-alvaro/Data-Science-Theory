@@ -8,7 +8,7 @@
 - [Multivariate Linear Regression]()
 - [Python Implementation]()
 
-## Homework Assignment 1
+## Homework Assignment 1 (due January 27)
 - [Problem 1](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%201.ipynb)
 - [Problem 2](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%202.ipynb)
 - [Problem 3](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%203.ipynb)
