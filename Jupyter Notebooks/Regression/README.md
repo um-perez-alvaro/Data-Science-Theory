@@ -4,7 +4,7 @@
 
 - [Simple Linear Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Simple%20Linear%20Regression.ipynb)
 - [Polynomial Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Polynomial%20Regression.ipynb)
-- [Overfitting and Regularization]()
+- [Overfitting and Regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Overfitting%20and%20Regularization.ipynb)
 - [Multivariate Linear Regression]()
 - [Python Implementation]()
 
