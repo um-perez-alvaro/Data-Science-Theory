@@ -23,5 +23,6 @@ Filename | Description |  Source
 [student debt.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/student%20debt.csv) | Total student loan debt in the United States measured quarterly from 2006 to 2014 | [Machine Learning Refined](https://github.com/nrchade/mlrefined)
 [crickets.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/crickets.csv) | Relationship between chirps (pulses of sound) per second of a cricket and the corresponding ground temperature | [The Song of Insects](https://songsofinsects.com/)
 [cerals.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/cereals.csv) | Nutrition data on cereal products | [Kaggle](https://www.kaggle.com/crawford/80-cereals)
+[kc_house_data.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/kc_house_data.csv) | This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015 | [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction) 
 
 
