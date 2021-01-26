@@ -18,6 +18,8 @@
 
 - [Problem 5](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%205.ipynb)
 - [Problem 6](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%206.ipynb)
+- [Problem 7](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%207.ipynb)
+- [Problem 8](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%208.ipynb)
 
 ## Datasets
 
@@ -32,4 +34,5 @@ Filename | Description |  Source
 [bike_sharing.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/bike_sharing.csv) |  Daily counts of rented bikes in Washington, D.C., USA, in years 2011 and 2012 |
 [climate_change.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/climate_change.csv) |  Climate data from May 1983 to December 2008 | [MIT](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/assignment-2/)
 [pisa2009.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/pisa2009.csv) |  This dataset contains information about the demographics and schools for American students taking the  Programme for International Student Assessment (PISA) 2009 test | [OECD](https://www.oecd.org/pisa/)
+[Flu.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/Flu.csv) | Flu data from January 1, 2004 until December 31, 2011 | [CDC](https://www.cdc.gov/flu/weekly/fluactivitysurv.htm) <br> [Google Trends](https://trends.google.com/trends/?geo=US) <br> [MIT](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data/)
 
