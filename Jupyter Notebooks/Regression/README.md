@@ -14,6 +14,11 @@
 - [Problem 3](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%203.ipynb)
 - [Problem 4](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%204.ipynb)
 
+## Homework Assignment 2 ()
+
+- [Problem 5](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%205.ipynb)
+- [Problem 6](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%206.ipynb)
+
 ## Datasets
 
 Filename | Description |  Source
@@ -24,5 +29,6 @@ Filename | Description |  Source
 [crickets.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/crickets.csv) | Relationship between chirps (pulses of sound) per second of a cricket and the corresponding ground temperature | [The Song of Insects](https://songsofinsects.com/)
 [cerals.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/cereals.csv) | Nutrition data on cereal products | [Kaggle](https://www.kaggle.com/crawford/80-cereals)
 [kc_house_data.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/kc_house_data.csv) | This dataset contains house sale prices for King County, which includes Seattle. It includes homes sold between May 2014 and May 2015 | [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction) 
+[bike_sharing.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/bike_sharing.csv) |  Daily counts of rented bikes in Washington, D.C., USA, in years 2011 and 2012 |
 
 
