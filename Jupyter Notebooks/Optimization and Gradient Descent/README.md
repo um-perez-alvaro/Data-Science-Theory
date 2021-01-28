@@ -12,7 +12,7 @@
 
 Choose one:
 
-- [Problem 2a: Mathematical properties of regularized regression]()
-- [Problem 2b: Leukemia diagnosis]()
+- [Problem 3a: Mathematical properties of regularized regression]()
+- [Problem 3b: Leukemia diagnosis]()
 
 
