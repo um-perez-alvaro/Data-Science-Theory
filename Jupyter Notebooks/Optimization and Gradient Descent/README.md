@@ -8,7 +8,8 @@
 
 ## Homework Assignment 3 ()
 - [Problem 1: Classification of handwritten digits]()
-- [Problem 2: A naughty function]
+- [Problem 2: A naughty function]()
+
 Choose one:
 
 - [Problem 2a: Mathematical properties of regularized regression]()
