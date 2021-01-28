@@ -2,7 +2,7 @@
 
 ## Jupyter notebooks
 
-- [Linear Regression by Gradient Descent]()
+- [Linear Regression by Gradient Descent](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Linear%20Regression%20with%20Gradient%20Descent.ipynb)
 - [Adding Momentum]()
 - [Early Stopping]()
 
