@@ -10,5 +10,5 @@
 - [Problem 1: Classification of handwritten digits]()
 - [Problem 2: Leukemia diagnosis]()
 - [Problem 3: Spam Detection]()
-- [Problem 4: Rosenbrock's banana]()
+- [Problem 4: Rosenbrock's banana](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Rosenbrock%27s%20banana.ipynb)
 
