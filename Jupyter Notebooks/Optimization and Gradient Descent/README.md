@@ -8,11 +8,8 @@
 
 ## Homework Assignment 3 ()
 - [Problem 1: Classification of handwritten digits]()
-- [Problem 2: A naughty function]()
-
-Choose one:
-
-- [Problem 3a: Mathematical properties of regularized regression]()
-- [Problem 3b: Leukemia diagnosis]()
+- [Problem 2: Rosenbrock's banana]()
+- [Problem 3: Leukemia diagnosis]()
+- [Problem 4: Spam Detection]()
 
 
