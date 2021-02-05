@@ -8,8 +8,7 @@
 
 ## Homework Assignment 3 ()
 - [Problem 1: Classification of handwritten digits]()
-- [Problem 2: Rosenbrock's banana]()
-- [Problem 3: Leukemia diagnosis]()
-- [Problem 4: Spam Detection]()
-
+- [Problem 2: Leukemia diagnosis]()
+- [Problem 3: Spam Detection]()
+- [Problem 4: Rosenbrock's banana]()
 
