@@ -12,3 +12,9 @@
 - [Problem 3: Spam Detection]()
 - [Problem 4: Rosenbrock's banana](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Rosenbrock%27s%20banana.ipynb)
 
+## Datasets
+Filename | Description |  Source
+--- | --- |  --- 
+[digits.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/digits.csv) | Subset of the MNIST dataset | [The MNIST database](http://yann.lecun.com/exdb/mnist/)
+[digits_test.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/digits.csv) | Subset of the MNIST dataset | [The MNIST database](http://yann.lecun.com/exdb/mnist/)
+
