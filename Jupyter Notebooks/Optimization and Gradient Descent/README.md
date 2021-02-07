@@ -6,7 +6,7 @@
 - [Early Stopping](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Early%20Stopping.ipynb)
 - [Adding Momentum](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Gradient%20Descent%20with%20Momentum.ipynb)
 
-## Homework Assignment 3 ()
+## Homework Assignment 3 (due Monday 15)
 - [Problem 1: Classification of handwritten digits](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Handwritten%20digits.ipynb)
 - [Problem 2: Leukemia diagnosis](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Leukemia%20Diagnosis.ipynb)
 - [Problem 3: Spam Detection](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Spam%20Detection.ipynb)
