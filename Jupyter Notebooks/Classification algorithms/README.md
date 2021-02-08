@@ -2,7 +2,7 @@
 
 ## Jupyter notebooks
 
-- [Logistic Regression]()
+- [Logistic Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Logistic%20Regression.ipynb)
 - [K-Nearest Neighbors]()
 - [Softmax Regression]()
 
