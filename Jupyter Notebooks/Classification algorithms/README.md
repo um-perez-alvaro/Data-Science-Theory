@@ -8,7 +8,7 @@
 
 ## Homework Assignment 4 ()
 
-- Problem 1: Classification of handwritten digits revisited
+- Problem 1: Fashion MNIST dataset
 - Problem 2: The Labeled Faces in the Wild Dataset
 - Problem 3: Predicting Earnings from Census Data
 - Problem 4: A Simple Face Detector
