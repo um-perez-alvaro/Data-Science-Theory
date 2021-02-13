@@ -10,7 +10,7 @@
 
 - Problem 1: The Fashion MNIST dataset
 - Problem 2: The Labeled Faces in the Wild Dataset
-- Problem 3: Predicting Earnings from Census Data
+- Problem 3: The MNIST dataset revisited
 - Problem 4: A Simple Face Detector
 
 ## Datasets
