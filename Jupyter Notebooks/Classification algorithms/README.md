@@ -7,11 +7,11 @@
 - [Softmax Regression]()
 
 ## Homework Assignment 4 ()
-
-- Problem 1: The Fashion MNIST dataset
-- Problem 2: The Labeled Faces in the Wild Dataset
-- Problem 3: The MNIST dataset revisited
-- Problem 4: A Simple Face Detector
+- Problem 1: The Moons Dataset
+- Problem 2: The Fashion MNIST dataset
+- Problem 3: The Labeled Faces in the Wild Dataset
+- Problem 4: The MNIST dataset revisited
+- Problem 5: A Simple Face Detector
 
 ## Datasets
 Filename | Description |  Source
