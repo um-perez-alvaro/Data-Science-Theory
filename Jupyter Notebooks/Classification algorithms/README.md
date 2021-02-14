@@ -7,11 +7,12 @@
 - [Softmax Regression]()
 
 ## Homework Assignment 4 ()
-
 - Problem 1: The Fashion MNIST dataset
 - Problem 2: The Labeled Faces in the Wild Dataset
-- Problem 3: Predicting Earnings from Census Data
-- Problem 4: A Simple Face Detector
+- Problem 3: Visualizing Classification Regions
+- Problem 4: The MNIST dataset revisited
+- Problem 5: A Simple Face Detector
+- Problem 6:
 
 ## Datasets
 Filename | Description |  Source
