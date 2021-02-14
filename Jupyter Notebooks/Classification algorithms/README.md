@@ -12,6 +12,7 @@
 - Problem 3: Visualizing Classification Regions
 - Problem 4: The MNIST dataset revisited
 - Problem 5: A Simple Face Detector
+- Problem 6:
 
 ## Datasets
 Filename | Description |  Source
