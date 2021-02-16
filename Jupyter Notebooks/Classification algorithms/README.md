@@ -11,8 +11,7 @@
 - [Problem 2: The Labeled Faces in the Wild Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%202.ipynb)
 - [Problem 3: Visualizing Classification Regions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%203.ipynb)
 - Problem 4: The MNIST dataset revisited
-- Problem 5: A Simple Face Detector
-- Problem 6:
+- [Problem 5: A Simple Face Detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%206.ipynb)
 
 ## Datasets
 Filename | Description |  Source
