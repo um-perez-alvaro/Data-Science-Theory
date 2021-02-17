@@ -6,7 +6,7 @@
 - [K-Nearest Neighbors](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/k-Nearest%20Neighbors.ipynb)
 - [Softmax Regression]()
 
-## Homework Assignment 4 ()
+## Homework Assignment 4 (due February 26)
 - [Problem 1: The Fashion MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201.ipynb)
 - [Problem 2: The Labeled Faces in the Wild Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%202.ipynb)
 - [Problem 3: Visualizing Classification Regions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%203.ipynb)
