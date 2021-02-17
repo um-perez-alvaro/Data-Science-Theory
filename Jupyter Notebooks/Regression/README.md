@@ -14,7 +14,7 @@
 - [Problem 3](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%203.ipynb) ([Solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Solutions/Problem%203%20-%20Solutions.ipynb))
 - [Problem 4](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%204.ipynb) ([Solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Solutions/Problem%204%20-%20Solutions.ipynb))
 
-## Homework Assignment 2 (due Friday 5)
+## Homework Assignment 2 (due February 5)
 
 - [Problem 5: Bike Sharing](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%205.ipynb) ([Solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Solutions/Problem%205%20-%20solutions.ipynb))
 - [Problem 6: Climate Change](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%206.ipynb) ([Solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Solutions/Problem%206%20-%20solutions.ipynb))
