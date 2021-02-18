@@ -4,7 +4,7 @@
 
 - [Logistic Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Logistic%20Regression.ipynb)
 - [K-Nearest Neighbors](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/k-Nearest%20Neighbors.ipynb)
-- [Softmax Regression](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Softmax%20Regression.ipynb)
+- [Softmax Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Softmax%20Regression.ipynb)
 
 ## Homework Assignment 4 (due February 26)
 - [Problem 1: The Fashion MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201.ipynb)
