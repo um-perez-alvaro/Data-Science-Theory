@@ -21,4 +21,4 @@ Filename | Description |  Source
 [census.csv]() | This dataset contains 1994 census data for 31,978 individuals in the United States | [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Adult)
 [fashion-mnist_train.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/fashion-mnist_train.csv) </br> [fashion-mnist_test.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/fashion-mnist_test.csv) | Subsets of the Fashion MNIST dataset | [Kaggle](https://www.kaggle.com/c/insar-fashion-mnist-challenge)
 [iris.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/iris.csv) | 50 samples of 3 different species of iris | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
-[penguins_size.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice/master/Data/penguins_size.csv)
+[penguins_size.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/penguins_size.csv)
