@@ -6,10 +6,10 @@
 
 ## Homework Assignment 4 ()
 
-- [Clustering Genes]() 
-- [Image Segmentation]()
-- [Document Clustering]()
-- [Toy Datasets]()
+- [Problem 1: Clustering Genes]() 
+- [Problem 2: Image Segmentation]()
+- [Problem 3: Document Clustering]()
+- [Problem 4: Toy Datasets]()
 
 
 
