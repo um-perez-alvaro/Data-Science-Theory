@@ -4,7 +4,12 @@
 - [K-Means]()
 - [Agglomerative Hierarchical Clustering]()
 
-## Homework
+## Homework Assignment 4 ()
+
+- [Clustering Genes]() 
+- [Image Segmentation]()
+- [Document Clustering]()
+- [Toy Datasets]()
 
 
 
