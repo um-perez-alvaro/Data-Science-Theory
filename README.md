@@ -12,7 +12,6 @@
 - [Recommender Systems](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Recommender%20Systems)
 - [Neural Nets](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Neural%20Nets)
 
-## Zoom Recordings
+## Projects
 
-01/10 Introduction to Jupyter Notebooks, Numpy and Matplotlib
 
