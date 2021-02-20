@@ -7,7 +7,7 @@
 ## Homework Assignment 4 ()
 
 - [Problem 1: Iris flowers and penguins]()
-- [Problem 2: Clustering for Color Segmentation]()
+- [Problem 2: Clustering for Color Segmentation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
 - [Problem 3: Clustering Genes]() 
 - [Problem 4: Document Clustering]()
 - [Problem 5: Toy Datasets]()
