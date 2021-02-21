@@ -6,13 +6,17 @@
 - [k-Means]()
 - [Agglomerative Hierarchical Clustering]()
 
-## Homework Assignment 4 ()
+## Homework Assignment 5 ()
 
 - [Problem 1: Iris flowers and penguins]()
 - [Problem 2: Clustering for Color Segmentation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
-- [Problem 3: Clustering Genes]() 
-- [Problem 4: Document Clustering]()
-- [Problem 5: Toy Datasets]()
+- [Problem 3: Greedy Initialization of k-means]()
+- 
+## Homework Assignment 6 ()
+
+- [Problem 4: Clustering Genes]() 
+- [Problem 5: Document Clustering]()
+- [Problem 6: Toy Datasets]()
 
 ## Datasets
 Filename | Description |  Source
