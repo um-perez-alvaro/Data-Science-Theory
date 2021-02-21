@@ -3,7 +3,7 @@
 **Clustering** is an example of unsupervised learning, in which we work with completely unlabeled data (we have the features X, but we do not have tha labels y). Clustering attemps to group objects together based on similarity (or distance). The objective of clustering is to identify distinct groups in a dataset such that the observations within a group are similar to each other but different from observations in other groups.
 
 ## Jupyter notebooks
-- [k-Means]()
+- [k-Means](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/k-means.ipynb)
 - [Agglomerative Hierarchical Clustering]()
 
 ## Homework Assignment 5 ()
