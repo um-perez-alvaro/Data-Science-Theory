@@ -10,7 +10,7 @@
 
 - [Problem 1: Flowers, irises and penguins](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%201.ipynb)
 - [Problem 2: Clustering for color segmentation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
-- [Problem 3: Greedy initialization of k-means]()
+- [Problem 3: Greedy initialization of k-means](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%203.ipynb)
 
 ## Homework Assignment 6 ()
 
