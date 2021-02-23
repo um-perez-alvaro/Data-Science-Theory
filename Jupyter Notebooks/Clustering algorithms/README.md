@@ -8,14 +8,15 @@
 
 ## Homework Assignment 5 ()
 
-- [Problem 1: Flowers, irises and penguins]()
-- [Problem 2: Clustering for Color Segmentation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
-- [Problem 3: Greedy Initialization of k-means]()
-- 
+- [Problem 1: Flowers, irises and penguins](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%201.ipynb)
+- [Problem 2: Clustering for color segmentation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
+- [Problem 3: Document clustering]()
+- [Problem 4: Greedy initialization of k-means]()
+
 ## Homework Assignment 6 ()
 
 - [Problem 4: Clustering Genes]() 
-- [Problem 5: Document Clustering]()
+- [Problem 5: Document Clustering revisited]()
 - [Problem 6: Toy Datasets]()
 
 ## Datasets
