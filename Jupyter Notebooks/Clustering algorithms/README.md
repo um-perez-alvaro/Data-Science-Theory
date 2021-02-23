@@ -8,7 +8,7 @@
 
 ## Homework Assignment 5 ()
 
-- [Problem 1: Iris flowers and penguins]()
+- [Problem 1: Flowers, irises and penguins]()
 - [Problem 2: Clustering for Color Segmentation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
 - [Problem 3: Greedy Initialization of k-means]()
 - 
