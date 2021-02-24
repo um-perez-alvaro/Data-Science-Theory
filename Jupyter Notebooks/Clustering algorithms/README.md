@@ -1,6 +1,6 @@
 # Clustering Algorithms
 
-**Clustering** is an example of unsupervised learning, in which we work with completely unlabeled data (we have the feature matrix X, but we do not have thelabel vector y). Clustering attemps to group objects together based on similarity (or distance). The objective of clustering is to identify distinct groups in a dataset such that the observations within a group are similar to each other but different from observations in other groups.
+**Clustering** is an example of unsupervised learning, in which we work with completely unlabeled data (we have the feature matrix X, but we do not have the label vector y). Clustering attemps to group objects together based on similarity (or distance). The objective of clustering is to identify distinct groups in a dataset such that the observations within a group are similar to each other but different from observations in other groups.
 
 **When is Clustering Used in Industry?**
 - segment groups of customers based on their activity with an app to deliver unique marketing messages
