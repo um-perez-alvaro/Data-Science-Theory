@@ -9,7 +9,7 @@
 
 ## Jupyter notebooks
 - [k-Means](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/k-means.ipynb)
-- [Agglomerative Hierarchical Clustering]()
+- [Agglomerative Hierarchical Clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/Agglomerative%20Hierarchical%20Clustering.ipynb)
 
 ## Homework Assignment 5 (due March 5)
 
