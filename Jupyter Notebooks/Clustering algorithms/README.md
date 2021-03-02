@@ -21,7 +21,7 @@
 
 - [Problem 4: Clustering genes]() 
 - [Problem 5: Document clustering]()
-- [Problem 6: TBD]()
+- [Problem 6: Adding inertia]()
 - [Problem 7: Centroid linkage]()
 
 ## Datasets
