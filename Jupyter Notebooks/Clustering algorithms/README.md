@@ -10,6 +10,7 @@
 ## Jupyter notebooks
 - [k-Means](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/k-means.ipynb)
 - [Agglomerative Hierarchical Clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/Agglomerative%20Hierarchical%20Clustering.ipynb)
+- [Spectral Clustering]()
 
 ## Homework Assignment 5 (due March 8)
 
@@ -21,8 +22,8 @@
 
 - [Problem 4: Clustering genes]() 
 - [Problem 5: Document clustering]()
-- [Problem 6: Adding inertia]()
-- [Problem 7: Centroid linkage]()
+- [Problem 6: The silhouette score]()
+- [Problem 7: Playing with spectral clustering]()
 
 ## Datasets
 Filename | Description |  Source
