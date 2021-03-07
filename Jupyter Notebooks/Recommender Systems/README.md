@@ -1,4 +1,4 @@
-# Clustering Algorithms
+# Recommender Systems
 
 ## Jupyter notebooks
 - [Item-based recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/Item-Based%20Recommendation.ipynb)
