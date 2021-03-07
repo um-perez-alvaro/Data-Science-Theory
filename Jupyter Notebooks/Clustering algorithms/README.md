@@ -34,6 +34,7 @@ Filename | Description |  Source
 [cancer_cells.png](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/cancer_cells.png) | breast cancer cells | [Machine Learning for Cancer Diagnosis and Prognosis](http://pages.cs.wisc.edu/~olvi/uwmp/cancer.html)
 [flowers.npy](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Data/flowers.npy?raw=true) | 61 images of flowers of three different species | [Kaggle](https://www.kaggle.com/olgabelitskaya/flower-color-images/code) </br> [TDS](https://towardsdatascience.com/how-to-cluster-images-based-on-visual-similarity-cd6e7209fe34)
 [Dailykos.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/dailykos.csv) | contains data on 3,430 news articles or blogs that have been posted on Daily Kos. These articles were posted in 2004, leading up to the United States Presidential Election | [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/index.htm)
+[USArrests.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/USArrests.csv) | This data set contains statistics, in arrests per 100,000 residents for assault, murder, and rape in each of the 50 US states in 1973 | [R Datasets](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/USArrests)
 
 
 
