@@ -1,7 +1,7 @@
 # Clustering Algorithms
 
 ## Jupyter notebooks
-- [Item-based recommendations]()
+- [Item-based recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/Item-Based%20Recommendation.ipynb)
 - [User-based recommendations]()
 - [Matrix factorization recommendations]()
 
