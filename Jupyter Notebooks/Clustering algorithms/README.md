@@ -20,7 +20,7 @@
 
 ## Homework Assignment 6 ()
 
-- [Problem 4: Clustering genes]() 
+- [Problem 4: Violent Crime Rates by US State]() 
 - [Problem 5: Document clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%205.ipynb)
 - [Problem 6: The silhouette score]()
 - [Problem 7: Playing with spectral clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%207.ipynb)
