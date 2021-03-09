@@ -7,11 +7,11 @@
 - [Softmax Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Softmax%20Regression.ipynb)
 
 ## Homework Assignment 4 (due February 26)
-- [Problem 1: The Fashion MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201.ipynb)
-- [Problem 2: The Labeled Faces in the Wild Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%202.ipynb)
-- [Problem 3: Visualizing Classification Regions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%203.ipynb)
-- [Problem 4: Exponentially Weighted knn](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%204.ipynb)
-- [Problem 5: A Simple Face Detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%205.ipynb)
+- [Problem 1: The Fashion MNIST dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201%20-%20solutions.ipynb))
+- [Problem 2: The Labeled Faces in the Wild Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%202.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%202%20-%20solutions.ipynb))
+- [Problem 3: Visualizing Classification Regions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%203.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%203%20-%20solutions.ipynb))
+- [Problem 4: Exponentially Weighted knn](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%204.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%204%20-%20solutions.ipynb))
+- [Problem 5: A Simple Face Detector](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%205.ipynb) ([solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%205%20-%20solutions.ipynb))
 
 ## Datasets
 Filename | Description |  Source
