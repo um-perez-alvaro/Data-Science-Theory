@@ -11,4 +11,4 @@
 ## Datasets
 Filename | Description |  Source
 --- | --- |  --- 
-[ratings.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice-bis/master/Data/ratings.csv) | small MovieLens dataset | [movielens](https://grouplens.org/datasets/movielens/latest/)
+[ratings.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/ratings.csv) | small MovieLens dataset | [movielens](https://grouplens.org/datasets/movielens/latest/)
