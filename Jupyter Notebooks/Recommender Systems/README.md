@@ -2,7 +2,7 @@
 
 ## Jupyter notebooks
 - [Item-based recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/Item-Based%20Recommendation.ipynb)
-- [User-based recommendations]()
+- [User-based recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/User-Based%20Recommendations.ipynb)
 - [Matrix factorization recommendations]()
 
 ## Homework Assignment 7 ()
