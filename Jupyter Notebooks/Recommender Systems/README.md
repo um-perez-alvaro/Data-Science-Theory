@@ -13,3 +13,4 @@ Filename | Description |  Source
 --- | --- |  --- 
 [ratings.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/ratings.csv) | small MovieLens dataset | [movielens](https://grouplens.org/datasets/movielens/latest/)
 [fake_user.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/fake_user.csv) | fake user movie ratings |
+[fake_user_2.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/fake_user_2.csv) | fake user movie ratings (compatible with ratings.csv) |
