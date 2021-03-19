@@ -22,7 +22,7 @@
 
 - [Problem 4: Violent crime rates by US State](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%204.ipynb) 
 - [Problem 5: Document clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%205.ipynb)
-- [Problem 6: Playing with spectral clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%207.ipynb)
+- [Problem 6: Playing with spectral clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%206.ipynb)
 
 ## Datasets
 Filename | Description |  Source
