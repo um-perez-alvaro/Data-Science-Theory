@@ -3,7 +3,7 @@
 ## Jupyter notebooks
 - [Item-based recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/Item-Based%20Recommendation.ipynb)
 - [User-based recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/User-Based%20Recommendations.ipynb)
-- [Matrix factorization recommendations]()
+- [Matrix factorization recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/Matrix%20Factorizations%20models.ipynb)
 
 ## Homework Assignment 7 ()
 
