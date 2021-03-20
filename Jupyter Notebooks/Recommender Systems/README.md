@@ -14,3 +14,5 @@ Filename | Description |  Source
 [ratings.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/ratings.csv) | small MovieLens dataset | [movielens](https://grouplens.org/datasets/movielens/latest/)
 [fake_user.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/fake_user.csv) | fake user movie ratings |
 [fake_user_2.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/fake_user_2.csv) | fake user movie ratings (compatible with ratings.csv) |
+[Book-Crossings dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) |  1.1 million ratings of 270,000 books by 90,000 users | [Book-Crossing Dataset](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
+[Jester](http://eigentaste.berkeley.edu/dataset/) | 6.5 million anonymous ratings of jokes by users of the [Jester Joke Recommender System](http://eigentaste.berkeley.edu/) | [Jester Datasets for Recommender Systems and Collaborative Filtering Research](http://eigentaste.berkeley.edu/dataset/)
