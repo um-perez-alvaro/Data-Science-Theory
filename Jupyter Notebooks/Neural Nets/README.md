@@ -2,6 +2,7 @@
 
 ## Jupyter notebooks
 - [Intro to Object Oriented Programming]()
+- [Toy Dataset]()
 - [Adding Layers]()
 - [Activation Functions]()
 - [Loss functions]()
