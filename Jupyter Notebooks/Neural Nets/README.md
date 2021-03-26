@@ -5,7 +5,7 @@
 - [Toy Dataset](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/The%20Toy%20Dataset.ipynb)
 - [Adding Layers](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Adding%20Layers.ipynb)
 - [Activation Functions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Activation%20Functions.ipynb)
-- [Loss Functions]()
+- [Categorical Cross-Entropy Loss Functions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Categorical%20Cross-Entropy%20Loss%20Function.ipynb)
 - [Backpropagation]()
 - [Stochastic Gradient Descent]()
 
