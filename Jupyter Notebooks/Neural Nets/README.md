@@ -6,7 +6,7 @@
 - [Adding Layers](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Adding%20Layers.ipynb)
 - [Activation Functions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Activation%20Functions.ipynb)
 - [Categorical Cross-Entropy Loss Functions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Categorical%20Cross-Entropy%20Loss%20Function.ipynb)
-- [Backpropagation]()
+- [Backpropagation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Backpropagation.ipynb)
 - [Stochastic Gradient Descent]()
 
 ## Homework Assignment 8 ()
