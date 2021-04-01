@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/um-perez-alvaro/Data-Science-Theory/HEAD)
 
-<img src="logo.png" height="10">
+<img src="logo.png" height="100">
 
 ## Contents:
 
