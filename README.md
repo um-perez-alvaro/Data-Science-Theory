@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/um-perez-alvaro/Data-Science-Theory/HEAD)
 
+![Logo](logo.png)
+
 ## Contents:
 
 - [Jupyter Notebooks, Numpy and Matplotlib](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Jupyter%20Notebooks%2C%20numpy%20and%20matplotlib)
