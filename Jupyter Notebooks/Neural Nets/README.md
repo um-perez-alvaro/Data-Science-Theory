@@ -7,10 +7,12 @@
 - [Activation Functions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Activation%20Functions.ipynb)
 - [Categorical Cross-Entropy Loss Functions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Categorical%20Cross-Entropy%20Loss%20Function.ipynb)
 - [Backpropagation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Backpropagation.ipynb)
-- [Stochastic Gradient Descent]()
+- [Stochastic Gradient Descent](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Stochastic%20Gradient%20Descent.ipynb)
+- [Example](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Three%20Spirals%20Dataset.ipynb)
 
 ## Homework Assignment 8 ()
 
+- [The MNIST dataset revisited]
 
 
 ## Datasets
