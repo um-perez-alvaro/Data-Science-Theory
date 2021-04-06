@@ -12,7 +12,7 @@
 
 ## Homework Assignment 8 ()
 
-- [The MNIST dataset revisited]
+- [The MNIST dataset revisited]()
 
 
 ## Datasets
