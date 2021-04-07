@@ -1,6 +1,6 @@
 # Neural Networks for Classification
 
-<img src="spirals.png" height="350" width = "800"> <img src="spirals-regions.png" height="350" width = "800">
+<img src="spirals.png"  width = "300"> <img src="spirals-regions.png"  width = "300">
 
 ## Jupyter notebooks
 - [Intro to Object Oriented Programming](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Intro%20to%20Object%20Oriented%20Programming.ipynb)
