@@ -2,7 +2,9 @@
 
 
 ## Jupyter notebooks
-- [Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Networks%20for%20Regression/notebooks/Regression.ipynb)
+- [ADAM Optimizer]()
+- [Regularization]()
+- [Dropout]()
 
 ## Homework Assignment 8 ()
 
