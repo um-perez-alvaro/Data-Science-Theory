@@ -11,9 +11,10 @@
 - [Gradient Descent](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Stochastic%20Gradient%20Descent.ipynb)
 - [Example](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Three%20Spirals%20Dataset.ipynb)
 
-## Homework Assignment 8 ()
+## Homework Assignment 8 (April 16)
 
-- [The MNIST dataset revisited]()
+- [Problem 1: Toy datasets](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/homework/Toy%20datasets.ipynb)
+- [Problem 2: The MNIST dataset revisited](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/homework/MNIST.ipynb)
 
 
 ## Datasets
