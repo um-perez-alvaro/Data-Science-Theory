@@ -6,7 +6,7 @@
 - [Polynomial Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Polynomial%20Regression.ipynb)
 - [Overfitting and Regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Overfitting%20and%20Regularization.ipynb)
 - [Multivariate Linear Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Multivariate%20Regression.ipynb)
-- [Python Implementation of Linear Regression]()
+- [The Kernel Trick]()
 
 ## Homework Assignment 1 (due January 27)
 - [Problem 1: Plotting a function with Matplotlib and Numpy](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%201.ipynb) ([Solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Solutions/Problem%201%20-%20Solutions.ipynb))
