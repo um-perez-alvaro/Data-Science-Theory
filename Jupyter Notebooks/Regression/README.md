@@ -8,13 +8,13 @@
 - [Multivariate Linear Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Multivariate%20Regression.ipynb)
 - [The Kernel Trick]()
 
-## Homework Assignment 1 (due January 27)
+## Homework Assignment 1 ()
 - [Problem 1: Plotting a function with Matplotlib and Numpy](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%201.ipynb) 
 - [Problem 2: Contour plots](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%202.ipynb) 
 - [Problem 3: Regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%203.ipynb) 
 - [Problem 4: Insects and a healthy breakfast](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%204.ipynb) ([Solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Solutions/Problem%204%20-%20Solutions.ipynb))
 
-## Homework Assignment 2 (due February 5)
+## Homework Assignment 2 ()
 
 - [Problem 5: Bike Sharing](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%205.ipynb) 
 - [Problem 6: Climate Change](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%206.ipynb) 
