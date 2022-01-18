@@ -12,13 +12,13 @@
 - [Agglomerative Hierarchical Clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/Agglomerative%20Hierarchical%20Clustering.ipynb)
 - [Spectral Clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/Spectral%20Clustering.ipynb)
 
-## Homework Assignment 5 (due March 8)
+## Homework Assignment 5 ()
 
 - [Problem 1: Flowers, irises and penguins](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%201.ipynb)
 - [Problem 2: Clustering for color segmentation](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
 - [Problem 3: Greedy initialization of k-means](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%203.ipynb)
 
-## Homework Assignment 6 (due March 17)
+## Homework Assignment 6 ()
 
 - [Problem 4: Violent crime rates by US State](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%204.ipynb) 
 - [Problem 5: Document clustering](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%205.ipynb)
