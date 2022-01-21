@@ -2,29 +2,22 @@
 
 ## Jupyter notebooks
 
-- [Simple Linear Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Simple%20Linear%20Regression.ipynb)
+- [Simple Linear Regression: theory and a toy example](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Simple%20Linear%20Regression.ipynb)
+- [Predicting house prices]()
 - [Polynomial Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Polynomial%20Regression.ipynb)
 - [Overfitting and Regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Overfitting%20and%20Regularization.ipynb)
 - [Multivariate Linear Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Multivariate%20Regression.ipynb)
 - [The Kernel Trick]()
 
 ## Homework Assignment 1 ()
-- [Problem 1: Plotting a function with Matplotlib and Numpy](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%201.ipynb) 
-- [Problem 2: Contour plots](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%202.ipynb) 
-- [Problem 3: Regularization](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%203.ipynb) 
-- [Problem 4: Insects and a healthy breakfast](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%204.ipynb) ([Solutions](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Solutions/Problem%204%20-%20Solutions.ipynb))
 
 ## Homework Assignment 2 ()
-
-- [Problem 5: Bike Sharing](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%205.ipynb) 
-- [Problem 6: Climate Change](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%206.ipynb) 
-- [Problem 7: Reading Test Scores](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%207.ipynb) 
-- [Problem 8: Detecting Flu Epidemics via Search Engine Query Data](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%208.ipynb) 
 
 ## Datasets
 
 Filename | Description |  Source
 --- | --- |  --- 
+[HousePrices.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/HousePrice.csv) | This dataset contains house sale prices in Ames, Iowa | [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 [world_happines_2017](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/world_happiness_2017.csv) | The World Happiness 2017 dataset, which ranks 155 countries by their happiness levels, was released at the United Nations at an event celebrating International Day of Happiness on March 20th | [Kaggle](https://www.kaggle.com/unsdsn/world-happiness)
 [bmi.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/bmi.csv) | The data includes height, weight, BMI and body fat | [Statistics By Jim](https://statisticsbyjim.com/regression/predictions-regression/)
 [student debt.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/student%20debt.csv) | Total student loan debt in the United States measured quarterly from 2006 to 2014 | [Machine Learning Refined](https://github.com/nrchade/mlrefined)
