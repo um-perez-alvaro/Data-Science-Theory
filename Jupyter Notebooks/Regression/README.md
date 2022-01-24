@@ -4,7 +4,7 @@
 
 - [Simple Linear Regression: theory and a toy example](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Simple%20Linear%20Regression.ipynb)
 - [Predicting house prices](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Predicting%20house%20prices.ipynb)
-- Polynomial Regression
+- [Polynomial Regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Polynomial%20Regression.ipynb)
 - Overfitting and Regularization
 - The Kernel Trick
 
