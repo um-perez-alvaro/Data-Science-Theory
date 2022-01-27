@@ -17,7 +17,7 @@
 Filename | Description |  Source
 --- | --- |  --- 
 [HousePrices.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/HousePrice.csv) | This dataset contains house sale prices in Ames, Iowa | [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
-[auto.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/auto.csv) |  | 
+[auto.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/auto.csv) |  | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
 [bmi.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/bmi.csv) | The data includes height, weight, BMI and body fat | [Statistics By Jim](https://statisticsbyjim.com/regression/predictions-regression/)
 [student debt.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/student%20debt.csv) | Total student loan debt in the United States measured quarterly from 2006 to 2014 | [Machine Learning Refined](https://github.com/nrchade/mlrefined)
 [crickets.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/crickets.csv) | Relationship between chirps (pulses of sound) per second of a cricket and the corresponding ground temperature | [The Song of Insects](https://songsofinsects.com/)
