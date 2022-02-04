@@ -22,6 +22,7 @@
 
 Filename | Description |  Source
 --- | --- |  --- 
+[Fremont.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/Fremont.csv) | daily number of bikes that cross the Fremont bridge (Seattle) | [Seattle Open Data portal](https://data.seattle.gov/)
 [HousePrices.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/HousePrice.csv) | This dataset contains house sale prices in Ames, Iowa | [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 [auto.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/auto.csv) | Data concerns city-cycle fuel consumption | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
 [bmi.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/bmi.csv) | The data includes height, weight, BMI and body fat | [Statistics By Jim](https://statisticsbyjim.com/regression/predictions-regression/)
