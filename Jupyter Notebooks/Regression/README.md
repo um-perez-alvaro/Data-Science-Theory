@@ -16,7 +16,10 @@
 - [Problem 4](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%204.ipynb)
 - [Problem 5](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%205.ipynb)
 
-## Homework Assignment 2 ()
+## Homework Assignment 2 (Due Feb 11)
+- [Problem 6](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%206%20.ipynb)
+- [Problem 7](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%207%20.ipynb)
+- [Problem 8](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%208.ipynb)
 
 ## Datasets
 
