@@ -3,7 +3,7 @@
 ## Jupyter notebooks
 
 - [Linear Regression by Gradient Descent](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Linear%20Regression%20with%20Gradient%20Descent.ipynb)
-- Early Stopping
+- [Early Stopping](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Early%20Stopping.ipynb)
 - Adding Momentum
 - 
 ## Homework Assignment 3 ()
