@@ -4,7 +4,7 @@
 
 - [Linear Regression by Gradient Descent](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Linear%20Regression%20with%20Gradient%20Descent.ipynb)
 - [Early Stopping](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Early%20Stopping.ipynb)
-- Adding Momentum
+- [Adding Momentum](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Gradient%20Descent%20with%20Momentum.ipynb)
 - 
 ## Homework Assignment 3 ()
 - [Problem 1: Classification of handwritten digits]
