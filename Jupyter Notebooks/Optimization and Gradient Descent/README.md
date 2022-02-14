@@ -7,11 +7,14 @@
 - [Adding Momentum](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Gradient%20Descent%20with%20Momentum.ipynb)
 - 
 ## Homework Assignment 3 ()
+
 Computationtal problems:
+
 - [Problem 1: Classification of handwritten digits]
 - [Problem 2: Leukemia diagnosis]
 - [Problem 3: Spam Detection]
 - [Problem 4: Rosenbrock's banana]
+- 
 Written problems:
 ## Datasets
 Filename | Description |  Source
