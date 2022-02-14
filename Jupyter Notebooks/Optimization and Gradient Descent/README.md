@@ -14,7 +14,7 @@ Computationtal problems:
 - [Problem 2: Leukemia diagnosis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Leukemia%20Diagnosis.ipynb)
 - [Problem 3: Spam Detection](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Spam%20Detection.ipynb)
 - [Problem 4: Rosenbrock's banana](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Rosenbrock%27s%20banana.ipynb)
-- 
+
 [Written problems](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/M462%26562-homework%203.pdf)
 ## Datasets
 Filename | Description |  Source
