@@ -15,7 +15,7 @@ Computationtal problems:
 - [Problem 3: Spam Detection]
 - [Problem 4: Rosenbrock's banana]
 - 
-Written problems:
+[Written problems](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/M462%26562-homework%203.pdf)
 ## Datasets
 Filename | Description |  Source
 --- | --- |  --- 
