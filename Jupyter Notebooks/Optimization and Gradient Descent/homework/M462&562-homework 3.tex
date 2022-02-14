@@ -1,0 +1,85 @@
+\documentclass{article}
+\usepackage{amsmath,amssymb,amsfonts,cmmib57,mathdots,xcolor,mathrsfs}
+\usepackage[latin1]{inputenc}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage[colorlinks = true, linkcolor = blue]{hyperref}
+\newcommand{\blue}{\color{blue} }
+
+
+\begin{document}
+
+\noindent {\bf M514-Homework 3: written part}\\
+
+
+\bigskip
+
+\begin{itemize}
+\item[\underline{Due}:] February 18 (Friday).
+\item[\underline{Problems}:]
+\begin{enumerate}
+\item
+Convex functions are of crucial importance in data analysis because they can be efficiently minimized by using gradient descent. 
+A crucial property of convex functions is that any local minima is a global minimum.
+
+
+\bigskip
+
+A function $f:\mathbb{R}^n \rightarrow \mathbb{R}$ is \textbf{convex} if for any vectors $x_1,x_2\in\mathbb{R}^n$ and scalar $t\in (0,1)$, we have
+\[
+t f(x_1) + (1-t)f(x_2) \geq f(tx_1+(1-t)x_2).
+\]
+In words, a function is convex when its curve lies below any chord joining two of its points.
+(See \href{https://en.wikipedia.org/wiki/Convex_function#/media/File:ConvexFunction.svg}{this} this picture).
+
+\bigskip
+
+Your goal is to show that the function
+\[
+f(\theta) = \| y- X\theta\|^2,
+\]
+in a least squares problem, is a convex function.
+
+\medskip
+
+\begin{enumerate}
+\item[Step 1.] Show that
+\[
+f(\theta) = \|y\|^2 - 2y^TX\theta + \theta^TX^TX\theta.
+\]
+\item[Step 2.] Show that, for any two vectors $\theta_1,\theta_2$ and scalar $t$, we have
+\[
+f(t\theta_1 + (1-t)\theta_2) - 
+\left( t f(\theta_1)+(1-t)f(\theta_2)\right) =
+ -t(1-t)\|X(\theta_1-\theta_2)\|^2.
+\]
+\item[Step 3.] Conclude that the function $f(\theta)$ is convex.
+\end{enumerate}
+
+\bigskip
+
+\item Consider the function
+\[
+f\left(\begin{bmatrix}x\\y\end{bmatrix} \right) = x^2 + by^2 \qquad \mbox{with }b<1,
+\]
+and the gradient descent iteration
+\[
+\begin{bmatrix}x_k\\y_k\end{bmatrix}  = 
+\begin{bmatrix}x_{k-1}\\y_{k-1}\end{bmatrix} -
+s \nabla f\left(\begin{bmatrix}x_{k-1}\\y_{k-1}\end{bmatrix} \right), \qquad \mbox{for }k=1,2,\hdots,
+\]
+where $s>0$ is the learning rate.
+
+\medskip
+
+\begin{enumerate}
+\item[Part 1.] Starting at $\begin{bmatrix}x_0\\y_0\end{bmatrix} = \begin{bmatrix} 1 \\ b\end{bmatrix}$, find a formula for $\begin{bmatrix}x_k\\y_k\end{bmatrix}$.
+\item[Part 2.] For what values of the learning rate $s$ does gradient descent converge to the minimum of $f$.
+\item[Part 3.] For what values of the learning rate $s$ does gradient descent approaches the minimum in a zig-zag path.
+\end{enumerate}
+
+\end{enumerate}
+\end{itemize}
+
+
+\end{document}

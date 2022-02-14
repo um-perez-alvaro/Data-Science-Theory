@@ -1,0 +1,93 @@
+\documentclass{article}
+\usepackage{amsmath,amssymb,amsfonts,cmmib57,mathdots,xcolor,mathrsfs}
+\usepackage[latin1]{inputenc}
+\usepackage{enumerate}
+\usepackage{graphicx}
+\usepackage[colorlinks = true, linkcolor = blue]{hyperref}
+\newcommand{\blue}{\color{blue} }
+\begin{document}
+
+\noindent {\bf M514-Homework 1:}\\
+
+
+\bigskip
+
+\begin{itemize}
+\item[\underline{Due}:] September 17 (Friday).
+\item[\underline{Python code}:] Hand in a printout of the Jupyter notebook for any problems that require coding.
+\item[\underline{Homework}:]
+\begin{enumerate}
+\item
+See the attached Jupyter notebook.
+
+\item
+During the COVID pandemic you started an online business to sell clothes. Since people cannot try the clothes on, you have decided to use machine learning to advice clients on what size to buy based on their weight (in kilograms) and height (in centimeters). 
+The table below shows some data that you have collected.
+
+
+$$\begin{array}{ccc} \mbox{Weight (kg)} & \mbox{Height (cm)} & \mbox{Size} \\ \hline 55 & 160 & S \\ 58 & 165 & S\\60 & 160 & M\\ 65 & 166 & M\\ 70 & 168 & M \\ 68 & 171 & M \\ 75 & 175 & L \\ 75 & 180 & L \\ 80& 187 & L \\ 90 & 190 &  L \end{array} $$
+S means small, M means medium, and L means large.
+
+\begin{enumerate}
+\item[\rm (a)] Plot the data points using excel or any other computer program (Python, Matlab, etc).
+\item[\rm (b)] The weight and height of a new customer are, respectively, 69 kg and 170 cm. 
+Use the knn algorithm with $k=3$ to give a recommendation on what size the client should buy. 
+You can use excel or any other computer program to do the necessary computations. 
+\end{enumerate}
+
+\bigskip
+
+\item
+Recall that two vectors $u,v\in\mathbb{R}^n$ are orthogonal (perpendicular) if their dot product is zero, that is, if $u^Tv=0$.
+Show that if the vectors $u$ and $v$ are orthogonal, then 
+\[
+\|u+v\|_2^2 = \|u\|_2^2 + \|v\|_2^2.
+\]
+
+\bigskip
+
+
+\item 
+The ``0-norm'' of a vector $v$ is defined as
+\[
+\|v\|_0 = \mbox{number of nonzero entries of $v$}.
+\]
+For example, the 0-norm of the vector $v=\left[ \begin{smallmatrix} 10 \\ 0 \end{smallmatrix}\right]$ is $\|v\|_0 = 1$, because $v$ has one nonzero entry.
+Show that $\|v\|_0$ is not actually a norm. 
+
+\bigskip
+
+\item Recall that the \textbf{unit ball} in $\mathbb{R}^n$, where a norm $\|\cdot\|$ is considered, is 
+$$
+\mathcal{S}=\{ v\in\mathbb{R}^n \mbox{ such that } \|v\|=1\}.
+$$
+Show that the unit balls in $\mathbb{R}^2$ for the 2-norm, 1-norm and $\infty$-norm are the curves sketched bellow
+\begin{figure}[h]
+\centering
+\includegraphics[width=1.\textwidth]{unit_circles.png}
+\end{figure}
+
+\bigskip
+
+\item Show that, for all $x, y\in \mathbb{R}^n$, 
+$$
+x^Ty = \frac{1}{4} \left[ \|x+y\|_2^2 -\|x-y\|_2^2\right],
+$$
+that is,  the dot product of two vectors can be recovered from the norm of their sum and difference. 
+
+\bigskip
+
+
+\item 
+Show that, for all $x, y\in \mathbb{R}^n$,
+\[
+\|x+y\|_2^2 + \|x-y\|_2^2 = 2\left(\|x\|_2^2 + \|y\|_2^2\right).
+\]
+Why do you think this identity is called the ``parallelogram identity''.
+
+
+\end{enumerate}
+\end{itemize}
+
+
+\end{document}
