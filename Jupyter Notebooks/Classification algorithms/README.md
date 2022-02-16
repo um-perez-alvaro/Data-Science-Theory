@@ -3,9 +3,10 @@
 ## Jupyter notebooks
 
 - [Logistic Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Logistic%20Regression.ipynb)
+  - [Plot classification regions function](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/plot%20classification%20regions%20function.ipynb)
+  - [Spirals dataset](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/spirals%20dataset.ipynb)
 - Softmax Regression
 - K-Nearest Neighbors
-- Softmax Regression
 
 ## Homework Assignment 4 ()
 
