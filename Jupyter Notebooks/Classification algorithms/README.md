@@ -7,7 +7,7 @@
   - [Spirals dataset](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/spirals%20dataset.ipynb)
 - [Softmax Regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Softmax%20Regression.ipynb)
   - [Plot softmax classification regions function](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/plot%20softmax%20classification%20regions.ipynb) 
-- K-Nearest Neighbors
+- [K-Nearest Neighbors](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/k-Nearest%20Neighbors%20%28MATH-B066HX1%27s%20conflicted%20copy%202022-02-25%29.ipynb)
 
 ## Homework Assignment 4 ()
 
