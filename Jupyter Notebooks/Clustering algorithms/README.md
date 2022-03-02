@@ -9,6 +9,7 @@
 
 ## Jupyter notebooks
 - [k-Means](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/k-means.ipynb)
+  - [plot silhouette diagram function](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/plot%20silhouette%20diagram%20function.ipynb)
 - Hierarchical Clustering
 - Gaussian mixtures
 
