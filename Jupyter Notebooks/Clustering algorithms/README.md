@@ -24,6 +24,7 @@
 ## Datasets
 Filename | Description |  Source
 --- | --- |  --- 
+[tumor.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/tumor.csv) |  MRI brain image of a patient with oligodendroglioma (a tumor that commonly occurs in the front lobe of the brain) | [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/index.htm)
 [iris.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Practice-bis/master/Data/iris.csv) | 50 samples of 3 different species of iris | [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 [penguins_size.csv](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/penguins_size.csv) | This dataset contains data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica | [Kaggle](https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data) </br> [palmerpenguins](https://allisonhorst.github.io/palmerpenguins/)
 [St_Basil_Cathedral.png](https://raw.githubusercontent.com/um-perez-alvaro/Data-Science-Theory/master/Data/St_Basil_Cathedral.png) | Saint Basil's Cathedral | [Wikipedia](https://commons.wikimedia.org/wiki/File:1_Saint_Basils_Cathedral.jpg)
