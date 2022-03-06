@@ -14,7 +14,10 @@
 - Gaussian mixtures
 
 ## Homework Assignment 5 ()
-
+-[Problem 1: Flowers, irises and penguins](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%201.ipynb)
+-[Problem 2: Clustering for Color Segmentation](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
+-[Problem 3: Greedy Initialization of k-means](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%203.ipynb)
+-[Problem 4: Clustering senators](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%204.ipynb)
 
 
 ## Homework Assignment 6 ()
