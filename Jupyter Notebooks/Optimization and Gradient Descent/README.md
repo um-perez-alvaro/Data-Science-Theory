@@ -10,10 +10,10 @@
 
 Computationtal problems:
 
-- [Problem 1: Classification of handwritten digits](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Handwritten%20digits.ipynb)
-- [Problem 2: Leukemia diagnosis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Leukemia%20Diagnosis.ipynb)
-- [Problem 3: Spam Detection](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Spam%20Detection.ipynb)
-- [Problem 4: Rosenbrock's banana](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Rosenbrock%27s%20banana.ipynb)
+- [Problem 1: Classification of handwritten digits](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Handwritten%20digits.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Handwritten%20digits%20-%20solution.ipynb))
+- [Problem 2: Leukemia diagnosis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Leukemia%20Diagnosis.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Leukemia%20Diagnosis%20-%20solution.ipynb))
+- [Problem 3: Spam Detection](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Spam%20Detection.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Spam%20Detection%20-%20solution.ipynb))
+- [Problem 4: Rosenbrock's banana](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Rosenbrock%27s%20banana.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Rosenbrock%27s%20banana%20-%20solution.ipynb))
 
 [Written problems](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/M462%26562-homework%203.pdf)
 ## Datasets
