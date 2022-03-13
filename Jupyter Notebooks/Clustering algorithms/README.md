@@ -22,8 +22,10 @@
 
 
 ## Homework Assignment 6 ()
-
-
+- [Problem 5: document clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%205.ipynb)
+- [Problem 6: kmeans vs hierarchical clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%206.ipynb)
+- [Problem 7: the Old Faithful](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%207%20.ipynb)
+- [Problem 8: top-down hierarchical clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%208%20.ipynb)
 
 ## Datasets
 Filename | Description |  Source
