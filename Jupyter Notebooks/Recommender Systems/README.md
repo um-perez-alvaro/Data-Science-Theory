@@ -7,8 +7,6 @@
 
 ## Homework Assignment 7 ()
 
-- [Problem 1: Book Recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/homework/Problem%201.ipynb)
-- [Problem 2: Jokes Recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/homework/Problem%202.ipynb)
 
 
 ## Datasets
