@@ -5,8 +5,9 @@
 ## Jupyter notebooks
 - [Neural network layers](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Neural%20Network%20Layers.ipynb)
 - [Backpropagation](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Backpropagation.ipynb)
+- [Classification](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Neural%20Nets/notebooks/Neural%20networks%20for%20classification.ipynb)
 
-## Homework Assignment 8 (April 23)
+## Homework Assignment 8 
 
 
 
