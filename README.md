@@ -14,7 +14,7 @@ This is the GitHub repository of Theoretical Big Data Analytics (M462)/Advanced 
 - [Classification Algorithms](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Classification%20algorithms)
 - [Clustering Algorithms](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Clustering%20algorithms)
 - [Recommender Systems](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Recommender%20Systems)
-- [Neural Networks for Regression](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Neural%20Nets)
+- [Neural Networks for Regression and Classification](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Neural%20Nets)
 
 
 
