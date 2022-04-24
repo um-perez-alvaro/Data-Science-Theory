@@ -15,17 +15,17 @@
   - [plot log probability distribution function](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/plot%20log%20probability%20distribution.ipynb)
 
 ## Homework Assignment 5 ()
-- [Problem 1: Flowers, irises and penguins](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%201.ipynb)
-- [Problem 2: Clustering for Color Segmentation](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
-- [Problem 3: Greedy Initialization of k-means](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%203.ipynb)
-- [Problem 4: Clustering senators](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%204.ipynb)
+- [Problem 1: Flowers, irises and penguins](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%201.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%201%20-%20solutions.ipynb))
+- [Problem 2: Clustering for Color Segmentation](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202%20-%20solutions.ipynb))
+- [Problem 3: Greedy Initialization of k-means](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%203.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%203%20-%20solutions.ipynb))
+- [Problem 4: Clustering senators](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%204.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%204%20-%20solutions.ipynb))
 
 
 ## Homework Assignment 6 ()
-- [Problem 5: document clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%205.ipynb)
-- [Problem 6: kmeans vs hierarchical clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%206.ipynb)
-- [Problem 7: the Old Faithful](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%207%20.ipynb)
-- [Problem 8: top-down hierarchical clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%208%20.ipynb)
+- [Problem 5: document clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%205.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%205%20-%20solutions.ipynb))
+- [Problem 6: kmeans vs hierarchical clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%206.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%206%20-%20solutions.ipynb))
+- [Problem 7: the Old Faithful](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%207%20.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%207%20-%20solutions.ipynb))
+- [Problem 8: top-down hierarchical clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%208%20.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%208%20-%20solutions.ipynb))
 
 ## Datasets
 Filename | Description |  Source
