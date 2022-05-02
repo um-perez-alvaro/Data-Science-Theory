@@ -1,4 +1,4 @@
-# Neural Networks for Classification
+# Neural Networks - Advanced Topics
 
 
 ## Jupyter notebooks
