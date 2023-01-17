@@ -10,11 +10,11 @@ This is the GitHub repository of Theoretical Big Data Analytics (M462)/Advanced 
 
 - [Jupyter Notebooks, Numpy and Matplotlib](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Jupyter%20Notebooks%2C%20numpy%20and%20matplotlib)
 - [Linear Regression](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Regression)
-- [Optimization and Gradient Descent](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent)
-- [Classification Algorithms](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Classification%20algorithms)
-- [Clustering Algorithms](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Clustering%20algorithms)
-- [Recommender Systems](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Recommender%20Systems)
-- [Neural Networks for Regression and Classification](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Neural%20Nets)
-- [Neural Networks - advanced topics](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Neural%20Networks%20-%20Advanced%20Topics)
+- Optimization and Gradient Descent
+- Classification Algorithms
+- Clustering Algorithms
+- Recommender Systems
+- Neural Networks for Regression and Classification
+- Neural Networks - advanced topics
 
 
