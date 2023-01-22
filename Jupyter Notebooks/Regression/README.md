@@ -3,7 +3,7 @@
 ## Jupyter notebooks
 
 - [Simple Linear Regression: Theory and Examples](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Simple%20Linear%20Regression.ipynb)
-- Multple Linear Regression: Predicting House Prices
+- Multiple Linear Regression: Predicting House Prices
 - Polynomial Regression
 - Overfitting and Regularization
 - One-hot encoding and the Fremont Bridge traffic dataset
