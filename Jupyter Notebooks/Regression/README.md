@@ -4,7 +4,7 @@
 
 - [Simple Linear Regression: Theory and Examples](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Simple%20Linear%20Regression.ipynb)
 - [Multiple Linear Regression: Predicting House Prices](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Predicting%20house%20prices.ipynb)
-- Polynomial Regression
+- [Polynomial Regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Polynomial%20Regression%20.ipynb)
 - Overfitting and Regularization
 - One-hot encoding and the Fremont Bridge traffic dataset
 
