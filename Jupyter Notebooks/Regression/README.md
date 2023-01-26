@@ -8,7 +8,7 @@
 - Overfitting and Regularization
 - One-hot encoding and the Fremont Bridge traffic dataset
 
-## Homework Assignment 1 (Due )
+## Homework Assignment 1 (Due Feb 3)
 - [Problem 1: plotting 2d and 3d functions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%201.ipynb)
 - [Problem 2: fitting linear models to data](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%202.ipynb)
 - [Problem 3: addting polynomial features](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%203.ipynb)
