@@ -6,7 +6,7 @@
 - [Multiple Linear Regression: Predicting House Prices](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Predicting%20house%20prices.ipynb)
 - [Polynomial Regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Polynomial%20Regression%20.ipynb)
 - [Overfitting and Regularization](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/Overfitting%20and%20Regularization.ipynb)
-- One-hot encoding and the Fremont Bridge traffic dataset
+- [One-hot encoding and the Fremont Bridge traffic dataset](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/notebooks/One-hot%20encoding.ipynb)
 
 ## Homework Assignment 1 (Due Feb 3)
 - [Problem 1: plotting 2d and 3d functions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Regression/homework/Problem%201.ipynb)
