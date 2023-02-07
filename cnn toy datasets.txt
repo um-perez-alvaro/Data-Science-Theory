@@ -1,0 +1,2 @@
+https://github.com/maansinga/MachineLearning-ToyCNN
+https://www.kaggle.com/datasets/cactus3/basicshapes/code?datasetId=29596&sortBy=voteCount
