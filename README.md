@@ -10,7 +10,7 @@ This is the GitHub repository of Theoretical Big Data Analytics (M462)/Advanced 
 
 - [Jupyter Notebooks, Numpy and Matplotlib](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Jupyter%20Notebooks%2C%20numpy%20and%20matplotlib)
 - [Linear Regression](https://github.com/um-perez-alvaro/Data-Science-Theory/tree/master/Jupyter%20Notebooks/Regression)
-- Optimization and Gradient Descent
+- [Optimization and Gradient Descent]()
 - Classification Algorithms
 - Clustering Algorithms
 - Recommender Systems
