@@ -4,18 +4,18 @@
 
 - [Linear Regression by Gradient Descent](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Linear%20Regression%20with%20Gradient%20Descent.ipynb)
 - [Early Stopping](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Early%20Stopping.ipynb)
-- Adding Momentum
+- [Adding Momentum](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Gradient%20Descent%20with%20Momentum.ipynb)
 
-## Homework Assignment 3 ()
+## Homework Assignment 3 (due Feb 28)
 
 Computationtal problems:
 
-- Problem 1: Classification of handwritten digits
-- Problem 2: Leukemia diagnosis
-- Problem 3: Spam Detection
-- Problem 4: Rosenbrock's banana
+- [Problem 1: Classification of handwritten digits](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Handwritten%20digits.ipynb)
+- [Problem 2: Leukemia diagnosis](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Leukemia%20Diagnosis.ipynb)
+- [Problem 3: Spam Detection](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Spam%20Detection.ipynb)
+- [Problem 4: Rosenbrock's banana](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/Rosenbrock%27s%20banana.ipynb)
 
-Written problems
+[Written problems](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/homework/M462%26562-homework%203.pdf)
 
 ## Datasets
 Filename | Description |  Source
