@@ -15,13 +15,13 @@
 \bigskip
 
 \begin{itemize}
-\item[\underline{Due}:] February 18 (Friday).
+\item[\underline{Due}:] February 28 (Tuesday).
 \item[\underline{Problems}:]
 \begin{enumerate}
 \item
-Convex functions are of crucial importance in data analysis because they can be efficiently minimized by using gradient descent. 
-A crucial property of convex functions is that any local minima is a global minimum.
-
+Convex functions are essential in data analysis because they have desirable mathematical properties that allow us to efficiently minimize them using optimization methods such as gradient descent. 
+One of the key properties of a convex function is that any local minimum of the function is also a global minimum.
+This is a highly desirable property for optimization, as it ensures that the optimization algorithm will always converge to the optimal solution.
 
 \bigskip
 
@@ -39,7 +39,11 @@ Your goal is to show that the function
 f(\theta) = \| y- X\theta\|^2,
 \]
 in a least squares problem, is a convex function.
-
+This is, you are going to show that for any vectors $\theta_1$ and $\theta_2$, and for any scalar $t$ with $0 \leq t \leq 1$, the inequality
+\[
+t f(\theta_1) + (1-t)f(\theta_2) \geq f(t\theta_1+(1-t)\theta_2).
+\]
+holds
 \medskip
 
 \begin{enumerate}
