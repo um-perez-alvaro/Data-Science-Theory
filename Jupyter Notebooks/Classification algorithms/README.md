@@ -3,18 +3,18 @@
 ## Jupyter notebooks
 
 - [Logistic Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Logistic%20Regression.ipynb)
-  - [Plot logistic classification regions function](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/plot%20classification%20regions%20function.ipynb)
-  - [Spirals dataset](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/spirals%20dataset.ipynb)
-- [Softmax Regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Softmax%20Regression.ipynb)
-  - [Plot softmax classification regions function](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/plot%20softmax%20classification%20regions.ipynb) 
-- [K-Nearest Neighbors](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/k-Nearest%20Neighbors%20%28MATH-B066HX1%27s%20conflicted%20copy%202022-02-25%29.ipynb)
+  - Plot logistic classification regions function
+  - Spirals dataset
+- Softmax Regression
+  - Plot softmax classification regions function
+- K-Nearest Neighbors
 
 ## Homework Assignment 4 ()
-- [Problem 1](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201%20-%20solutions.ipynb))
-- [Problem 2](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%202.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%202%20-%20solutions.ipynb))
-- [Problem 3](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%203.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%203%20-%20solutions.ipynb))
-- [Problem 4](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%204.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%204%20-%20solutions.ipynb))
-- [Problem 5](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%205.ipynb) ([solutions](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%205%20-%20solutions.ipynb))
+- Problem 1
+- Problem 2
+- Problem 3
+- Problem 4
+- Problem 5
 
 ## Datasets
 Filename | Description |  Source
