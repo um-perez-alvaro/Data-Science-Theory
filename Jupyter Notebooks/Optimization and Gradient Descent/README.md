@@ -6,7 +6,7 @@
 - [Early Stopping](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Early%20Stopping.ipynb)
 - [Adding Momentum](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Optimization%20and%20Gradient%20Descent/notebooks/Gradient%20Descent%20with%20Momentum.ipynb)
 
-## Homework Assignment 3 (due Feb 28)
+## Homework Assignment 3 (due Mar 1)
 
 Computationtal problems:
 
