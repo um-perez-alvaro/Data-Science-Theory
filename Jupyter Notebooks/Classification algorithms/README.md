@@ -5,7 +5,7 @@
 - [Logistic Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Logistic%20Regression.ipynb)
   - Plot logistic classification regions function
   - Spirals dataset
-- Softmax Regression
+- [Softmax Regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Softmax%20Regression.ipynb)
   - Plot softmax classification regions function
 - K-Nearest Neighbors
 
