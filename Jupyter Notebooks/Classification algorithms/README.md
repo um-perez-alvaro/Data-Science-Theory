@@ -5,7 +5,6 @@
 - [Logistic Regression](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Logistic%20Regression.ipynb)
   
 - [Softmax Regression](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Softmax%20Regression.ipynb)
-  - Plot softmax classification regions function
 - [K-Nearest Neighbors](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/k-Nearest%20Neighbors.ipynb)
 - [Visualizing classification regions: logistic regression vs knn](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/Visualizing%20classification%20regions.ipynb)
   - [Plot classification regions functions](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/plot%20classification%20regions%20functions.ipynb)
