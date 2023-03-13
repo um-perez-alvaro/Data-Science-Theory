@@ -11,11 +11,11 @@
   - [Spiral datasets](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/spirals%20dataset.ipynb)
 
 ## Homework Assignment 4 ()
-- Problem 1
-- Problem 2
-- Problem 3
-- Problem 4
-- Problem 5
+- Problem 1: the Fashion MNIST and the Labeled Faces in the Wild datasets
+- Problem 2: Exponentially Weighted k-Nearest Neighbors
+- Problem 3: A Simple Face Detector
+- Problem 4: The Curse of Dimensionality
+- Problem 5: k-Nearest Neighbor Regressor
 
 ## Datasets
 Filename | Description |  Source
