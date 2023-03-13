@@ -10,7 +10,7 @@
   - [Plot classification regions functions](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/plot%20classification%20regions%20functions.ipynb)
   - [Spiral datasets](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/notebooks/spirals%20dataset.ipynb)
 
-## Homework Assignment 4 ()
+## Homework Assignment 4 (March 27)
 - [Problem 1: the Fashion MNIST and the Labeled Faces in the Wild datasets](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201.ipynb)
 - [Problem 2: Exponentially Weighted k-Nearest Neighbors](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%202.ipynb)
 - [Problem 3: A Simple Face Detector](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%203.ipynb)
