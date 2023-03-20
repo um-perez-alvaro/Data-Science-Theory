@@ -14,7 +14,7 @@
 - [Problem 1: the Fashion MNIST and the Labeled Faces in the Wild datasets](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201.ipynb)
 - [Problem 2: Exponentially Weighted k-Nearest Neighbors](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%202.ipynb)
 - [Problem 3: A Simple Face Detector](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%203.ipynb)
-- [Problem 4: The Curse of Dimensionality](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%204.ipynb)
+- [Problem 4: The Curse of Dimensionality](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%204.ipynb)
 - [Problem 5: k-Nearest Neighbor Regressor](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%205.ipynb)
 
 ## Datasets
