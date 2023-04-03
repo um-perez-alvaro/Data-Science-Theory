@@ -10,8 +10,8 @@
 ## Jupyter notebooks
 - [k-Means](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/k-means.ipynb)
 - [Hierarchical Clustering](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/Agglomerative%20Hierarchical%20Clustering.ipynb)
-- Gaussian mixtures
-  - plot log probability distribution function
+- [Gaussian mixtures](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/Gaussian%20mixtures.ipynb)
+  - [plot log probability distribution function](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/plot%20log%20probability%20distribution.ipynb)
 
 ## Homework Assignment 5 ()
 - Problem 1: Flowers, irises and penguins
