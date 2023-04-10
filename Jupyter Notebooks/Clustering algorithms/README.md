@@ -13,7 +13,7 @@
 - [Gaussian mixtures](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/Gaussian%20mixtures.ipynb)
   - [plot log probability distribution function](https://github.com/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/notebooks/plot%20log%20probability%20distribution.ipynb)
 
-## Homework Assignment 5 ()
+## Homework Assignment 5 (April 21)
 - [Problem 1: Flowers, irises and penguins](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%201.ipynb)
 - [Problem 2: Clustering for Color Segmentation](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%202.ipynb)
 - [Problem 3: Clustering senators](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Clustering%20algorithms/homework/Problem%204.ipynb)
