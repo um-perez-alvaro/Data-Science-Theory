@@ -5,10 +5,7 @@
 - [User-based recommendations](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/User-Based%20Recommendations.ipynb)
 - [Matrix factorization models](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/Matrix%20Factorizations%20models.ipynb)
 
-## Homework Assignment 7 ()
 
-- [Problem 1](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/homework/Problem%201.ipynb)
-- [Problem 2](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/homework/Problem%202.ipynb)
 
 
 
