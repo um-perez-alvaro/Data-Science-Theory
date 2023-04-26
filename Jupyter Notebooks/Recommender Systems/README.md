@@ -6,7 +6,7 @@
 - [Matrix factorization models](https://nbviewer.jupyter.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/notebooks/Matrix%20Factorizations%20models.ipynb)
 
 ## Homework Assignment 4 ()
-- [Problem 1: Book Recommendations](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Classification%20algorithms/homework/Problem%201.ipynb)
+- [Problem 1: Book Recommendations](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/homework/Problem%201.ipynb)
 - [Problem 2: Jokes Recommendations](https://nbviewer.org/github/um-perez-alvaro/Data-Science-Theory/blob/master/Jupyter%20Notebooks/Recommender%20Systems/homework/Problem%202.ipynb)
 
 
